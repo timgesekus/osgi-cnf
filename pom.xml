@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>net.gesekus.mavenosgi</groupId>
-		<artifactId>cnf</artifactId>
+		<artifactId>parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
-	<artifactId>container</artifactId>
+	<artifactId>cnf</artifactId>
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-cnf.git</developerConnection>
 	</scm>
