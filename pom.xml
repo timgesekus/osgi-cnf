@@ -8,7 +8,7 @@
 	</parent>
 	<artifactId>cnf</artifactId>
 	<scm>
-		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-cnf.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-cnf.git</developerConnection>
 	  <tag>parent-1.0.0</tag>
   </scm>
 	<packaging>jar</packaging>
